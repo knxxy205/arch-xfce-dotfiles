@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Go
+Comment=Clipboard Manager Autostart File
+TryExec=xfce4-clipman
+Exec=xfce4-clipman
+Icon=xfce4-clipman-plugin
+Terminal=false
+Categories=GTK;Utility;TrayIcon;
+OnlyShowIn=XFCE;GNOME;X-Cinnamon;
+StartupNotify=false
+X-XFCE-Source=file:///usr/share/applications/xfce4-clipman.desktop
+Path=

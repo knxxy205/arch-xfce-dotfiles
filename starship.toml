@@ -1,0 +1,16 @@
+# Tidak ada newline tambahan
+add_newline = false
+
+# Tampilkan hanya path di prompt
+[directory]
+style = "cyan"
+
+# Disable semua modul lain
+[git_branch]
+disabled = true
+[git_status]
+disabled = true
+[hostname]
+disabled = true
+[time]
+disabled = true

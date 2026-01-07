@@ -2,6 +2,10 @@
 
 Personal XFCE desktop configuration.
 
+## Screenshot
+
+![XFCE Desktop](screenshots/desktop.png)
+
 ## Includes
 - XFCE4 panel & window manager
 - GTK theme config
